@@ -1,22 +1,3 @@
-Skip to content
-/
-dodsp
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-ubuntu-22.04
-Update sonarcloud.yml #36
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/ubuntu-22.04.yaml at b8676be
 name: ubuntu-22.04
 
 on:
@@ -59,5 +40,3 @@ jobs:
       with:
         comment_title: ubuntu-22.04 warnings
         compile_result_file: output.txt
-        
-Update sonarcloud.yml · DiracResearch/dodsp@b8676be 
